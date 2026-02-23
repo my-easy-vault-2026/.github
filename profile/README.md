@@ -1,6 +1,9 @@
 # My Easy Vault 2026
 
+![image](intro.jpg)
+
 Josh's side project: a lightweight Vault backend built with Go.
+My easy vault is a transparent vault that makes currency exchange and transfers funds to others easy.
 It focuses on core money-flow capabilities, including wallet management, currency exchange, peer transfers, and transaction history.
 
 ## Project Positioning
